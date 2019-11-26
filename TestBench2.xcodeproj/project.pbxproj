@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		344C0001238C308900F0E8E0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 344C0000238C308900F0E8E0 /* Preview Assets.xcassets */; };
 		344C0004238C308900F0E8E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 344C0002238C308900F0E8E0 /* LaunchScreen.storyboard */; };
+		344C000C238C31BD00F0E8E0 /* SecondScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 344C000B238C31BD00F0E8E0 /* SecondScreen.swift */; };
+		344C000E238C350900F0E8E0 /* ThirdScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 344C000D238C350900F0E8E0 /* ThirdScreen.swift */; };
 		344CFFF8238C308700F0E8E0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 344CFFF7238C308700F0E8E0 /* AppDelegate.swift */; };
 		344CFFFA238C308700F0E8E0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 344CFFF9238C308700F0E8E0 /* SceneDelegate.swift */; };
 		344CFFFC238C308700F0E8E0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 344CFFFB238C308700F0E8E0 /* ContentView.swift */; };
@@ -19,6 +21,8 @@
 		344C0000238C308900F0E8E0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		344C0003238C308900F0E8E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		344C0005238C308900F0E8E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		344C000B238C31BD00F0E8E0 /* SecondScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondScreen.swift; sourceTree = "<group>"; };
+		344C000D238C350900F0E8E0 /* ThirdScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdScreen.swift; sourceTree = "<group>"; };
 		344CFFF4238C308700F0E8E0 /* TestBench2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestBench2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		344CFFF7238C308700F0E8E0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		344CFFF9238C308700F0E8E0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +63,8 @@
 				344CFFF7238C308700F0E8E0 /* AppDelegate.swift */,
 				344CFFF9238C308700F0E8E0 /* SceneDelegate.swift */,
 				344CFFFB238C308700F0E8E0 /* ContentView.swift */,
+				344C000B238C31BD00F0E8E0 /* SecondScreen.swift */,
+				344C000D238C350900F0E8E0 /* ThirdScreen.swift */,
 				344CFFFD238C308900F0E8E0 /* Assets.xcassets */,
 				344C0002238C308900F0E8E0 /* LaunchScreen.storyboard */,
 				344C0005238C308900F0E8E0 /* Info.plist */,
@@ -147,6 +153,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				344CFFF8238C308700F0E8E0 /* AppDelegate.swift in Sources */,
+				344C000C238C31BD00F0E8E0 /* SecondScreen.swift in Sources */,
+				344C000E238C350900F0E8E0 /* ThirdScreen.swift in Sources */,
 				344CFFFA238C308700F0E8E0 /* SceneDelegate.swift in Sources */,
 				344CFFFC238C308700F0E8E0 /* ContentView.swift in Sources */,
 			);
